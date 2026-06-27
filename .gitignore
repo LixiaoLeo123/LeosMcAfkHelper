@@ -1,0 +1,14 @@
+node_modules
+dist
+.DS_Store
+.vite
+# Tauri / Rust
+src-tauri/target
+src-tauri/gen
+# Local MCC artifacts (reference only)
+MinecraftClient.ini
+Minecraft-Console-Client-master/
+MinecraftClient-*
+PLAN.md
+.claude
+.codex
